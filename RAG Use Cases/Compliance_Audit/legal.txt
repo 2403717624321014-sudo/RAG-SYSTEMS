@@ -1,0 +1,127 @@
+legal
+
+Enterprise Master Services and Compliance Agreement
+ABC Technologies Pvt. Ltd.
+Effective Date: January 1, 2026
+
+1. Definitions
+
+“Agreement” means this Master Services and Compliance Agreement including all schedules and statements of work.
+
+“Force Majeure Event” means any event beyond the reasonable control of the affected party, including but not limited to natural disasters, earthquakes, floods, acts of government, regulatory changes, war, terrorism, labor strikes, pandemics, cyberattacks, power outages, or failure of telecommunications networks.
+
+“Material Breach” means a failure to perform a substantial contractual obligation that significantly affects the value of the Agreement.
+
+2. Scope of Services
+
+The Company shall provide software engineering services, API development, infrastructure hosting, cybersecurity monitoring, and regulatory compliance advisory services as detailed in applicable Statements of Work.
+
+3. Regulatory Compliance
+
+The Company agrees to comply with all applicable laws, including but not limited to data protection laws, cybersecurity regulations, export control laws, and industry-specific compliance frameworks such as ISO 27001 and SOC 2 standards.
+
+The Client reserves the right to request compliance certifications and audit documentation at reasonable intervals.
+
+4. Representations and Warranties
+
+Each party represents that it has the authority to enter into this Agreement and that performance of its obligations does not violate any other contractual commitments.
+
+The Company warrants that services shall be performed in a professional and workmanlike manner consistent with industry standards.
+
+5. Confidential Information
+
+Confidential Information includes proprietary business information, trade secrets, technical specifications, source code, financial data, and personal data processed under this Agreement.
+
+The confidentiality obligations shall survive termination for a period of five years.
+
+6. Data Protection and Privacy
+
+The Company shall implement encryption in transit and at rest, multi-factor authentication, access logging, intrusion detection systems, and periodic penetration testing.
+
+In the event of a personal data breach, the Company shall notify the Client within seventy-two hours and cooperate in regulatory reporting obligations.
+
+7. Term of Agreement
+
+This Agreement shall remain in effect for an initial term of three years unless terminated earlier in accordance with the provisions herein.
+
+The Agreement shall automatically renew for successive one-year periods unless written notice of non-renewal is provided at least ninety days prior to expiration.
+
+8. Termination for Convenience
+
+Either party may terminate this Agreement for convenience upon ninety days’ prior written notice.
+
+Termination for convenience shall not relieve the Client of payment obligations for services rendered prior to the effective termination date.
+
+9. Termination for Cause
+
+Either party may terminate this Agreement immediately upon written notice if the other party commits a Material Breach and fails to cure such breach within thirty days of receiving written notice.
+
+Material breaches include failure to comply with security requirements, repeated service-level violations, unlawful data processing, or non-payment of fees.
+
+10. Force Majeure
+
+Neither party shall be liable for failure or delay in performance resulting from a Force Majeure Event.
+
+The affected party must notify the other party promptly and provide details regarding the expected duration of the Force Majeure Event.
+
+The affected party shall use commercially reasonable efforts to mitigate the effects of such event.
+
+11. Termination Related to Force Majeure
+
+If a Force Majeure Event continues for more than sixty (60) consecutive days and materially prevents performance of essential obligations under this Agreement, the non-affected party may terminate the Agreement upon thirty (30) days’ written notice.
+
+Termination pursuant to this Force Majeure clause shall not give rise to liability for damages arising from the termination itself.
+
+However, any accrued payment obligations, confidentiality obligations, and indemnification obligations shall survive termination.
+
+12. Suspension of Services
+
+In lieu of termination, the non-affected party may elect to suspend services during a Force Majeure Event.
+
+Suspension shall not constitute breach of contract.
+
+13. Limitation of Liability
+
+Except in cases of fraud, willful misconduct, or breach of confidentiality, neither party shall be liable for indirect, incidental, or consequential damages.
+
+Total liability shall not exceed the total fees paid during the twelve months preceding the claim.
+
+14. Indemnification
+
+Each party agrees to indemnify the other against third-party claims arising from intellectual property infringement, violation of law, or breach of contractual obligations.
+
+15. Audit and Inspection Rights
+
+The Client may conduct compliance audits upon reasonable notice to verify adherence to data protection, cybersecurity, and regulatory requirements.
+
+Failure to remediate critical audit findings within thirty days may constitute grounds for termination for cause.
+
+16. Dispute Resolution
+
+Disputes shall first be resolved through executive-level negotiations.
+
+If unresolved within thirty days, disputes shall be referred to binding arbitration under Indian arbitration law.
+
+17. Governing Law
+
+This Agreement shall be governed by the laws of India. Courts located in Chennai shall have exclusive jurisdiction for interim relief proceedings.
+
+18. Survival
+
+The provisions relating to Confidentiality, Data Protection, Indemnification, Limitation of Liability, Dispute Resolution, and accrued payment obligations shall survive termination of this Agreement.
+
+19. Data Retention and Deletion
+
+The Company shall retain Client data only for the duration necessary to fulfill contractual and regulatory obligations. Upon termination or expiration of this Agreement, all Client data shall be securely deleted or returned within ninety (90) days, unless retention is required by applicable law.
+
+20. Change Management
+
+Any amendments to this Agreement must be made in writing and signed by authorized representatives of both parties. Changes communicated via email or verbal discussions shall not be considered legally binding.
+
+21. Escalation Matrix
+
+In the event of unresolved disputes, operational escalations shall follow the hierarchy of Project Manager, Account Director, and Executive Sponsor before invoking formal dispute resolution mechanisms.
+
+22. Compliance with Emerging Regulations
+
+The Company agrees to monitor and comply with newly introduced data protection and cybersecurity regulations, including amendments to existing laws, during the term of this Agreement.

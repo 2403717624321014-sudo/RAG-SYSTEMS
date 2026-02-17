@@ -1,0 +1,4 @@
+ollama
+flask
+scikit-learn
+numpy

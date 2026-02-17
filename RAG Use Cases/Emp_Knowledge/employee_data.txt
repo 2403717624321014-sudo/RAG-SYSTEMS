@@ -1,0 +1,34 @@
+ABC Technologies Pvt. Ltd. maintains a centralized internal knowledge base to ensure that all employees have access to accurate and updated organizational policies, operational procedures, and technical guidelines. This document consolidates essential information regarding remote work policies, leave regulations, IT troubleshooting support, code of conduct expectations, and project documentation standards applicable for the year 2026. All employees are expected to familiarize themselves with the contents of this manual and comply with the stated policies.
+
+The Remote Work Policy for 2026 is designed to promote flexibility while maintaining productivity and collaboration. All full-time employees who have completed a minimum of six months of continuous service with the company are eligible to apply for remote work arrangements. Under the standard structure, employees may work remotely for up to three days per week. However, physical presence in the office is mandatory on Mondays and Thursdays to ensure team coordination, meetings, and collaborative activities. Any request for additional remote days beyond the permitted limit must receive prior written approval from the respective department head or reporting manager.
+
+Employees working remotely are required to adhere to official working hours. The total required working time is eight hours per day, and all employees must remain available during the core collaboration window between 10:00 AM and 4:00 PM IST. Attendance must be recorded daily through the company’s HRMS portal. Failure to log attendance consistently may result in policy review or disciplinary action. While remote work provides flexibility, employees are expected to maintain the same level of professionalism, responsiveness, and output as they would in an in-office environment.
+
+To support remote operations, the company provides a company-issued laptop, secure VPN access credentials, and a two-factor authentication device for secure login. Employees are responsible for maintaining a stable high-speed internet connection and ensuring that their home workspace meets basic security and confidentiality standards. Company data must only be accessed through the official VPN, and confidential information must not be downloaded or stored on personal devices. Sharing login credentials is strictly prohibited. Additionally, all employees must complete mandatory cybersecurity awareness training once every year to remain compliant with data protection standards.
+
+The Leave Policy for 2026 outlines the various categories of leave available to employees. Each full-time employee is entitled to eighteen paid annual leave days per calendar year. A maximum of five unused leave days may be carried forward into the following year. Sick leave is limited to twelve days per year, and if an employee takes sick leave for more than two consecutive working days, a valid medical certificate must be submitted through the HRMS portal. The organization also provides five days of emergency leave annually, which requires approval from the reporting manager. All leave applications must be submitted in advance through the HRMS system except in unavoidable emergency situations.
+
+The Information Technology Support section provides guidance for resolving common technical issues encountered by employees. In cases where an employee experiences difficulty connecting to the company VPN, they should first restart their system and verify their internet connectivity. If the issue persists, reinstalling the VPN client is recommended. Should the problem remain unresolved, employees must contact the IT Helpdesk during official working hours between 9:00 AM and 6:00 PM IST. The IT Helpdesk can be reached via the official support email address it.support@abctech.com
+ or through the internal extension number 4455. Prompt reporting of technical issues ensures minimal disruption to workflow and operational continuity.
+
+ABC Technologies Pvt. Ltd. maintains a strict Code of Conduct to foster a respectful, inclusive, and secure workplace environment. All employees are expected to maintain professional communication in both written and verbal interactions. Discrimination, harassment, or any form of misconduct based on gender, race, religion, nationality, or any other protected characteristic is strictly prohibited. Employees must safeguard confidential company information and comply with all IT security policies. Violations of the Code of Conduct may result in disciplinary measures, including written warnings, temporary suspension, or termination of employment depending on the severity of the offense.
+
+The organization also emphasizes structured project management and documentation practices, particularly within the AI and technology teams. Before deployment, all software models and systems must undergo local development testing, peer review, and security validation. After successful validation, the solution may be deployed to the staging environment for further testing. Final production release requires formal approval from the Chief Technology Officer. Each project must include comprehensive documentation consisting of a README file, an architecture diagram, API documentation, and a version history log. Proper documentation ensures maintainability, transparency, and efficient onboarding of new team members.
+
+This knowledge base is subject to periodic updates, and employees are encouraged to review revisions regularly to remain informed about policy changes. Management reserves the right to amend policies as required to align with organizational growth, regulatory requirements, or operational needs. Employees seeking clarification regarding any policy mentioned in this document should contact the Human Resources department or their immediate supervisor. Compliance with these policies ensures smooth operations, data security, and a productive work environment for all members of ABC Technologies Pvt. Ltd.
+
+Attendance and Performance Monitoring
+
+Employee performance during remote and on-site work is evaluated based on deliverables, adherence to timelines, and participation in mandatory meetings. Repeated violations of attendance or availability requirements may result in corrective action.
+
+Workplace Safety and Ergonomics
+
+Employees working remotely are encouraged to maintain ergonomically safe workstations. The company may provide guidance or equipment recommendations to prevent work-related health issues.
+
+Policy Violation Reporting
+
+Employees may confidentially report policy violations, unethical conduct, or security concerns through the internal whistleblower portal. Reports are investigated without retaliation.
+
+Policy Review Cycle
+
+All policies within this knowledge base are reviewed annually. Updated versions are communicated through official internal channels and supersede previous editions.

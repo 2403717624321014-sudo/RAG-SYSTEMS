@@ -1,0 +1,91 @@
+Customer Support Ticket :
+Ticket Retention Policy
+All resolved tickets are archived for 180 days from the date of closure.
+After 180 days, tickets automatically expire and are removed from the searchable index.
+Expired tickets are permanently deleted and cannot be retrieved by the RAG system.
+
+Ticket ID: CS-2026-101
+Category: Authentication
+Issue: Customer received 401 Unauthorized error when accessing profile endpoint.
+Cause: Access token expired after 3600 seconds.
+Resolution: Customer instructed to generate a new access token using /v2/auth/token endpoint.
+Outcome: Issue resolved after token regeneration.
+Status: Closed
+
+Ticket ID: CS-2026-118
+Category: Rate Limiting
+Issue: Client received 429 Too Many Requests error.
+Cause: Application exceeded 1000 requests per minute limit.
+Resolution: Customer advised to implement exponential backoff and request throttling.
+Outcome: API stabilized after rate control implementation.
+Status: Closed
+
+Ticket ID: CS-2026-143
+Category: HTTPS Enforcement
+Issue: API calls failed when using HTTP.
+Cause: Version 2.0 requires HTTPS with TLS 1.2 or higher.
+Resolution: Customer updated base URL to HTTPS endpoint.
+Outcome: Requests processed successfully.
+Status: Closed
+
+Ticket ID: CS-2026-167
+Category: Credential Exposure
+Issue: Client secret exposed in public repository.
+Cause: Credentials hardcoded in source file.
+Resolution: Compromised credentials revoked and regenerated.
+Recommendation: Store credentials in environment variables and enable secret scanning.
+Status: Closed
+
+Ticket ID: CS-2026-189
+Category: JWT Validation
+Issue: Internal services returned 403 Forbidden error.
+Cause: Incorrect public key configuration during JWT validation.
+Resolution: Updated public key and verified issuer and audience claims.
+Outcome: Service-to-service authentication restored.
+Status: Closed
+
+Ticket ID: CS-2026-204
+Category: Token Refresh
+Issue: User sessions interrupted due to token expiration.
+Cause: No automatic token refresh implemented.
+Resolution: Implemented refresh token flow before access token expiry.
+Outcome: Session continuity maintained.
+Status: Closed
+
+Autocomplete System Behavior
+When a new support ticket is received, the RAG system retrieves similar archived tickets.
+The system generates a suggested response based on past resolutions.
+Support agents must review and approve the drafted response before sending.
+
+Expiration Handling Logic
+Only non-expired tickets are indexed for retrieval.
+Expired tickets are excluded from similarity search.
+Newly resolved tickets are appended to the archive and indexed automatically.
+
+Ticket Severity Classification
+
+Severity 1 (Critical): Complete service outage impacting all users
+
+Severity 2 (High): Partial outage or major functionality loss
+
+Severity 3 (Medium): Individual user issues with workarounds
+
+Severity 4 (Low): General inquiries or cosmetic issues
+
+SLA Response Guidelines
+
+Severity 1: Initial response within 30 minutes
+
+Severity 2: Initial response within 2 hours
+
+Severity 3: Initial response within 1 business day
+
+Severity 4: Initial response within 2 business days
+
+Human-in-the-Loop Validation
+
+All AI-generated ticket responses are reviewed by a support agent before being sent to customers. The AI system does not auto-resolve tickets without human approval.
+
+Feedback Loop
+
+Agent feedback on AI-suggested responses is logged and used to improve future retrieval accuracy and response quality.
