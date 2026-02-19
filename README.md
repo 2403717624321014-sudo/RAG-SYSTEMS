@@ -4,6 +4,11 @@ A Retrieval-Augmented Generation (RAG) based AI system that retrieves enterprise
 
 ---
 
+🔗 **Live Demo (MVP):**  
+https://2403717624321014-sudo.github.io/Gowtham-K-Portfolio/
+
+---
+
 ## 🎯 Objectives
 
 🎯 Improve contextual accuracy in AI responses  
